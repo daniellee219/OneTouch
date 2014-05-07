@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OneTouch</string>
+    <string name="student_id">请输入学号</string>
+    <string name="passwd">请输入密码</string>
+    <string name="login">登录</string>
+
+</resources>
