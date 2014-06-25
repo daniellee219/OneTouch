@@ -28,7 +28,7 @@
             android:layout_gravity="center_horizontal"
             android:ems="10"
             android:hint="@string/student_id"
-            android:inputType="number"
+            android:inputType="text"
             android:singleLine="true"
             android:textSize="25sp" />
     </TableRow>
